@@ -1,7 +1,7 @@
 <html>
 <body>
 
-STATUS=UP
+STATUS=DOWN
 
 </body>
 </html>
