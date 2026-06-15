@@ -1,1 +1,1 @@
-Application Version 5.0
+Application Version 6.0

@@ -1,7 +1,7 @@
 <html>
 <body>
 
-STATUS=UPs
+STATUS=UP
 
 </body>
 </html>
